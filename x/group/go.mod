@@ -7,7 +7,7 @@ require (
 	github.com/cosmos/cosmos-proto v0.0.0-20211123144845-528f5002c9f8
 	github.com/cosmos/cosmos-sdk v0.44.0
 	github.com/gogo/protobuf v1.3.3
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.7.1
 	google.golang.org/grpc v1.43.0
 	google.golang.org/protobuf v1.27.1
 	pgregory.net/rapid v0.4.7
