@@ -3,7 +3,7 @@ module github.com/cosmos/cosmos-sdk/orm
 go 1.17
 
 require (
-	github.com/cosmos/cosmos-proto v1.0.0-alpha4
+	github.com/cosmos/cosmos-proto v1.0.0-alpha7
 	github.com/cosmos/cosmos-sdk v0.44.5
 	github.com/cosmos/cosmos-sdk/api v0.1.0-alpha1
 	google.golang.org/protobuf v1.27.1
@@ -15,7 +15,7 @@ require (
 	github.com/btcsuite/btcd v0.22.0-beta // indirect
 	github.com/gogo/protobuf v1.3.3 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
-	github.com/google/go-cmp v0.5.5 // indirect
+	github.com/google/go-cmp v0.5.6 // indirect
 	github.com/petermattis/goid v0.0.0-20180202154549-b0b1615b78e5 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/sasha-s/go-deadlock v0.2.1-0.20190427202633-1595213edefa // indirect
