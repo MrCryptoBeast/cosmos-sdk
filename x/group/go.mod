@@ -7,7 +7,7 @@ require (
 	github.com/cosmos/cosmos-proto v0.0.0-20211123144845-528f5002c9f8
 	github.com/cosmos/cosmos-sdk v0.44.0
 	github.com/gogo/protobuf v1.3.3
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.8.0
 	google.golang.org/grpc v1.43.0
 	google.golang.org/protobuf v1.27.1
 	pgregory.net/rapid v0.4.7
@@ -139,7 +139,7 @@ require (
 	google.golang.org/appengine v1.6.7 // indirect
 	gopkg.in/ini.v1 v1.66.2 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 	nhooyr.io/websocket v1.8.6 // indirect
 	sigs.k8s.io/yaml v1.3.0 // indirect
 )
