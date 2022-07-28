@@ -4,5 +4,5 @@ go 1.17
 
 require (
 	github.com/cosmos/cosmos-proto v1.0.0-alpha4
-	google.golang.org/protobuf v1.27.1
+	google.golang.org/protobuf v1.28.1
 )
